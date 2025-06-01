@@ -26,7 +26,7 @@ For support email me at gamerboypro529@gmail.com
 ## 🚀 About Me
 I'm an ordinary linux enthusiast  who is really interested in learning the most about different distros and how they work
 My github profile is nnewbie_don.
-The projects are are alreadye public  but I am not done with anything yet.
+The projects are are alreade public  but I am not done with anything yet.
 
 
 ## Installation
