@@ -1,5 +1,5 @@
-Custom pop!_os iso img file with all necessities
-I am creating the best out of the box experience for pop!_os by using cubic natively in an ubuntu dekstop environment.
+Custom ubuntu iso img file with all necessities
+I am creating the best out of the box experience for ubuntu by using cubic natively in an ubuntu dekstop environment.
 Feel free to give me feedbacks on things you would want me to install. Or if you want me to make a video editor focused or gaming focused version of the ISO.
 
 ## Used By
@@ -19,7 +19,7 @@ For support email me at gamerboypro529@gmail.com
 [Documentation:
 1) Created on 1-06-25
 2) Used cubic in ubuntu.
-3) ISO File used was pop!_os
+3) ISO File used was ubuntu
 
 
 
@@ -31,7 +31,7 @@ The projects are are alreadye public  but I am not done with anything yet.
 
 ## Installation
 
-Download the ISO image file and flash it onto a medium of your choice. Just like you would do on any normal pop!_os installation.
+Download the ISO image file and flash it onto a medium of your choice. Just like you would do on any normal ubuntu installation.
 Flash it using balena etcher or rufus your choice.
 If you are on linux you can use anything, my personal favourite is popsicle iso img flasher or whatever it is called.
     
